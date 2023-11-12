@@ -1,0 +1,10 @@
+{"timestamp":7252257,"category":"fog.validation","name":"validate_early_event"}
+{"timestamp":7275380,"category":"nimbus_events","name":"enrollment","extra":{"enrollment_id":"269e1ef6-c018-460d-b00c-29333e3e90dd","branch":"control","experiment_type":"rollout","experiment":"extensions-migration-in-import-wizard-116-rollout"}}
+{"timestamp":7276090,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","experiment":"next-generation-accessibility-engine-powering-screen-readers","feature":"accessibilityCache"}}
+{"timestamp":7276090,"category":"nimbus_events","name":"validation_failed","extra":{"feature":"accessibilityCache","reason":"invalid-feature","experiment":"next-generation-accessibility-engine-powering-screen-readers-and-other-ats-copy"}}
+{"timestamp":7316916,"category":"nimbus_events","name":"validation_failed","extra":{"feature":"accessibilityCache","experiment":"next-generation-accessibility-engine-powering-screen-readers","reason":"invalid-feature"}}
+{"timestamp":7316916,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"next-generation-accessibility-engine-powering-screen-readers-and-other-ats-copy","reason":"invalid-feature","feature":"accessibilityCache"}}
+{"timestamp":7959844,"category":"serp","name":"impression","extra":{"is_shopping_page":"false","source":"urlbar","partner_code":"ubuntu-sn","provider":"google","tagged":"true","shopping_tab_displayed":"false","impression_id":"4f3b0874-6c9b-423f-b77e-69791bf715dd"}}
+{"timestamp":7999011,"category":"serp","name":"engagement","extra":{"impression_id":"4f3b0874-6c9b-423f-b77e-69791bf715dd","target":"non_ads_link","action":"clicked"}}
+{"timestamp":8055900,"category":"serp","name":"impression","extra":{"shopping_tab_displayed":"false","is_shopping_page":"false","partner_code":"ubuntu-sn","tagged":"true","source":"urlbar","impression_id":"0e6dec37-3f32-443c-bac2-57648a86f200","provider":"google"}}
+{"timestamp":8063927,"category":"serp","name":"abandonment","extra":{"reason":"navigation","impression_id":"0e6dec37-3f32-443c-bac2-57648a86f200"}}

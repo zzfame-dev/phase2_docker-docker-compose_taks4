@@ -1,0 +1,6 @@
+version: '3'
+services:
+  my_ubuntu_service:
+    image: ubuntu
+    command: tail -f /dev/null
+
